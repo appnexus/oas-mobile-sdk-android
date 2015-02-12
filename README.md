@@ -1,3 +1,5 @@
 AppNexus Open AdStream Android Mobile SDK.
 
-Please see IntegrationGuide/Android_SDK.pdf for details.
+See IntegrationGuide/Android_SDK.pdf for details.
+
+Please contact your OAS Account Mannager for support regarding any issues.
