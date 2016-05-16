@@ -3,27 +3,27 @@ __Note: These files are to be used with OAS only. For AppNexus Console use pleas
 AppNexus Open AdStream Android Mobile SDK.
 =======
 
-Methods for integration:
-
-1. Maven Integration
+Maven Integration
+-----------
 
 ```
 repositories { 
-mavenCentral() 
-maven{
-url 'http://cdn.adnxs.com/anx-sdk/maven' 
-}
+    mavenCentral() 
+    maven{
+        url 'http://cdn.adnxs.com/anx-sdk/maven' 
+    }
 }
 ... 
 dependencies {
-// Integrate AppNexus OAS SDK and Android support library
-compile 'com.appnexus.oas.mobilesdk:appnexusoasmobileadsdk:2.2.3'
-compile 'com.android.support:support-v4:22.2.0'
-...
+    // Integrate AppNexus OAS SDK and Android support library
+    compile 'com.appnexus.oas.mobilesdk:appnexusoasmobileadsdk:2.2.3'
+    compile 'com.android.support:support-v4:22.2.0'
+    ...
 }
 ```
 
-2. Manual Integration
+Manual Integration
+-----------
 
 See IntegrationGuide/Android_SDK.pdf for details.
 
