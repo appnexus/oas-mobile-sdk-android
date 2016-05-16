@@ -1,6 +1,6 @@
 __Note: These files are to be used with OAS only. For AppNexus Console use please download the [AppNexus Android Mobile SDK](https://github.com/appnexus/mobile-sdk-android) instead.__
 
-AppNexus Open AdStream Android Mobile SDK.
+AppNexus Open AdStream Android Mobile SDK
 =======
 
 Maven Integration
